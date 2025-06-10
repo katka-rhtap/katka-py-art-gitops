@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: katka-py-art-repository
+spec:
+  url: https://github.com/katka-rhtap/katka-py-art
